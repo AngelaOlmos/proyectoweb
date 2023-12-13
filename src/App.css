@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  
+}
+.navbar {
+  background-color: #343a40; 
+  color: white;
+}
+
+.navbar-nav .nav-link {
+  color: white !important; 
+  margin: 0 10px; 
+}
+
+.navbar-toggler-icon {
+  background-color: white; 
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: var(--fondo);
+	font-family: 'Open Sans', sans-serif;
+}
+
+.contenedor {
+	width: 90%;
+	margin: auto;
+}
+
+
+
+
+
