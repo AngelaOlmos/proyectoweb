@@ -1,0 +1,26 @@
+.linea{
+    border-top: 5px solid purple;
+    margin-bottom: 40px;
+  }
+  .buttons {
+    min-width:700px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+  }
+  
+  .buttons a {
+    text-decoration: none;
+    font-size: 60px;
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+    text-align: medium;
+    background: purple;
+    color: #f1f1f1;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+    
+  }
+  
+  
